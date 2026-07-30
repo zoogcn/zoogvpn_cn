@@ -9,8 +9,9 @@
 
 > **本页面为信息说明页。** 请使用下方按钮或链接，从官方网站获取 **ZoogVPN**。
 
-| **官方网站** | **[https://zoogvpn.com](https://zoogvpn.com/)**                         |
+| **分类** | 链接 / 说明                       |
 | -------- | ----------------------------------------------------------------------- |
+| **官方网站** | **[https://zoogvpn.com](https://zoogvpn.com/)**                         |
 | **中国入口** | [**https://zoog.pro**](https://www.zoog.pro/zh-cn/best-china-solution/) |
 | **支持系统** | Windows、安卓 Android、iOS、macOS                                            |
 | **账号**   | 免费及高级套餐 —— 请在[官网](https://app.zoog.pro/sign-up)注册                       |
