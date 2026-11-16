@@ -2,7 +2,7 @@
 
 **ZoogVPN** for Windows, Android, iOS, and macOS.
 Scroll down to **Download & Install** to get it via the official links below.
-
+> Last Updated: 16 Nov 2026
 ---
 
 ## Download & Install
